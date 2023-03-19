@@ -12,6 +12,9 @@ export default function BasicDemo() {
 
     <div>
         <Button label="Submit" />
+        <br></br>
+        <Button label="Submit" />
+
 
     </div>
     )
